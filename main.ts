@@ -15,4 +15,4 @@ let CounterB = 0
 let CounterA = 0
 CounterA = 0
 CounterB = 0
-CounterAB += 1
+CounterAB = 0
